@@ -1,0 +1,29 @@
+﻿Build started 1/3/2013 9:39:45 PM.
+     1>Project "C:\Users\Work\Development\C++\testInventory3-1\testInventory3-1\testInventory3-1.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\testInventory3-1.unsuccessfulbuild".
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "test-inventory_again-3-1.cpp"
+         test-inventory_again-3-1.cpp
+     1>c:\users\work\development\c++\testinventory3-1\testinventory3-1\test-inventory_again-3-1.cpp(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+     1>c:\users\work\development\c++\testinventory3-1\testinventory3-1\test-inventory_again-3-1.cpp(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\testInventory3-1.exe.embed.manifest.res" Debug\testInventory3-1_manifest.rc 
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Work\Development\C++\testInventory3-1\Debug\testInventory3-1.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\testInventory3-1.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Work\Development\C++\testInventory3-1\Debug\testInventory3-1.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Work\Development\C++\testInventory3-1\Debug\testInventory3-1.lib" /MACHINE:X86 "Debug\testInventory3-1.exe.embed.manifest.res"
+         "Debug\test-inventory_again-3-1.obj"
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\testInventory3-1.exe.embed.manifest" /manifest "Debug\testInventory3-1.exe.intermediate.manifest"
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\testInventory3-1.exe.embed.manifest.res" Debug\testInventory3-1_manifest.rc 
+       LinkEmbedManifest:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Work\Development\C++\testInventory3-1\Debug\testInventory3-1.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\testInventory3-1.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Work\Development\C++\testInventory3-1\Debug\testInventory3-1.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Work\Development\C++\testInventory3-1\Debug\testInventory3-1.lib" /MACHINE:X86 "Debug\testInventory3-1.exe.embed.manifest.res"
+         "Debug\test-inventory_again-3-1.obj"
+         testInventory3-1.vcxproj -> C:\Users\Work\Development\C++\testInventory3-1\Debug\testInventory3-1.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\testInventory3-1.unsuccessfulbuild".
+         Touching "Debug\testInventory3-1.lastbuildstate".
+     1>Done Building Project "C:\Users\Work\Development\C++\testInventory3-1\testInventory3-1\testInventory3-1.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.54
